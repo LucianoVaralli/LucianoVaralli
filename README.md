@@ -24,7 +24,7 @@
 <h3>💻 Programación</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-9558B2?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pascal-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge"/>
