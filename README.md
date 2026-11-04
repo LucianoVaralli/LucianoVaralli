@@ -16,7 +16,7 @@
 </p>
 <p><b>2do semestre</b></p>
 <p align="center">
-  <img src="./assets/materias/proximamente.svg" alt="próximamente" />
+  <a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP"><img src="./assets/materias/taller-programacion-unlp.svg" alt="Taller de Programación UNLP"/></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 </p>
 <p><b>1er semestre</b></p>
 <p align="center">
-  <a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP"><img src="./assets/materias/taller-programacion-unlp.svg" alt="Taller de Programación UNLP"/></a>
+  <img src="./assets/materias/proximamente.svg" alt="próximamente" />
 </p>
 <p><b>2do semestre</b></p>
 <p align="center">
