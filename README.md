@@ -24,7 +24,7 @@
 </p>
 <p><b>1er semestre</b></p>
 <p align="center">
-  [![Taller de Programación UNLP](./assets/materias/taller-programacion-unlp.svg)](https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP)
+  <a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP"><img src="./assets/materias/taller-programacion-unlp.svg" alt="Taller de Programación UNLP"/></a>
 </p>
 <p><b>2do semestre</b></p>
 <p align="center">
@@ -36,11 +36,11 @@
 </p>
 <p><b>1er semestre</b></p>
 <p align="center">
-  [![Ingeniería 2](./assets/materias/ingenieria-2.svg)](https://github.com/LucianoVaralli/ingenieria-2)
+  <a href="https://github.com/LucianoVaralli/ingenieria-2"><img src="./assets/materias/ingenieria-2.svg" alt="Ingeniería 2"/></a>
 </p>
 <p><b>2do semestre</b></p>
 <p align="center">
-  [![Programación Concurrente](./assets/materias/programacion-concurrente.svg)](https://github.com/LucianoVaralli/Programacion-Concurrente)
+  <a href="https://github.com/LucianoVaralli/Programacion-Concurrente"><img src="./assets/materias/programacion-concurrente.svg" alt="Programación Concurrente"/></a>
   <br><br>
   TTPS - Taller de Desarrollo de Software guiado por los Requerimientos
 </p>
