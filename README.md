@@ -1,89 +1,53 @@
-<h1 align="center">👋 Hola, soy Luciano Varalli</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=7c3aed,6366f1,0ea5e9&height=200&section=header&text=Luciano%20Varalli&fontSize=48)
 
 <p align="center">
-  <strong>Analista Programador Universitario – UNLP</strong><br>
-  Apasionado por el desarrollo de software, la resolución de problemas y aprender construyendo.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Analista+Programador+Universitario;UNLP" alt="Typing SVG" />
 </p>
 
-<hr>
-
-<h2>🎓 Facultad</h2>
-
-<h3>3er año</h3>
-
-<h4>1er semestre</h4>
-<ul>
-  <li><a href="https://github.com/LucianoVaralli/ingenieria-2">Ingeniería 2</a></li>
-</ul>
-
-<h4>2do semestre</h4>
-<ul>
-  <li><a href="https://github.com/LucianoVaralli/Programacion-Concurrente">Programación Concurrente</a></li>
-  <li><a href="https://gitlab.com/luchito233/ttps-taller-de-desarrollo-de-software-guiado-por-los-requerimientos">TTPS - Taller de Desarrollo de Software guiado por los Requerimientos</a></li>
-</ul>
-
-<h3>2do año</h3>
-
-<h4>1er semestre</h4>
-<ul>
-  <li><a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP">Taller de Programación UNLP</a></li>
-</ul>
-
-<h4>2do semestre</h4>
-<ul>
-  <li><em>Sin repos asignados</em></li>
-</ul>
-
-<h3>1er año</h3>
-
-<h4>1er semestre</h4>
-<ul>
-  <li><em>Sin repos asignados</em></li>
-</ul>
-
-<h4>2do semestre</h4>
-<ul>
-  <li><em>Sin repos asignados</em></li>
-</ul>
-
-<hr>
-
-<h2>💼 Trabajos propios</h2>
-
-<ul>
-  <li>
-    <strong>Energía Gimnasio</strong> – Proyecto de gestión para un gimnasio. Aplicación web para administración de membresías, clases y planillas de salud.
-    <br><a href="https://github.com/LucianoVaralli/energia-gimnasio">Ver en GitHub</a>
-  </li>
-</ul>
-
-<hr>
-
-<h2>🚀 Tecnologías y Herramientas</h2>
-
-<h3>💻 Programación</h3>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pascal-00599C?style=for-the-badge"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucianoVaralli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 
-<h3>🗄️ Bases de datos</h3>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<h2 align="center">🛠️ Tecnologías</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,mongodb,git,github,gitlab&theme=dark" alt="Skills" />
 </p>
 
-<h3>🔧 Control de versiones</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+<h2 align="center">🎓 Facultad</h2>
 
-<h3>🧰 IDEs</h3>
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=Eclipse_IDE&logoColor=white"/>
-</p>
+<details>
+<summary>3er año</summary>
+
+**1er semestre**
+- [Ingeniería 2](https://github.com/LucianoVaralli/ingenieria-2)
+
+**2do semestre**
+- [Programación Concurrente](https://github.com/LucianoVaralli/Programacion-Concurrente)
+- TTPS - Taller de Desarrollo de Software guiado por los Requerimientos
+</details>
+
+<details>
+<summary>2do año</summary>
+
+**1er semestre**
+- [Taller de Programación UNLP](https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP)
+
+**2do semestre**
+- Sin repos asignados
+</details>
+
+<details>
+<summary>1er año</summary>
+
+**1er semestre**
+- Sin repos asignados
+
+**2do semestre**
+- Sin repos asignados
+</details>
+
+<h2 align="center">💼 Trabajos propios</h2>
+
+- **Energía Gimnasio** – Proyecto de gestión para un gimnasio. Aplicación web para administración de membresías, clases y planillas de salud.
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,6366f1,7c3aed&height=100&section=footer)
