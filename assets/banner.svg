@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="220" fill="url(#bg)"/>
+  <!-- burbujas -->
+  <g opacity="0.15" fill="white">
+    <circle cx="120" cy="60" r="40">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="160" r="55">
+      <animateTransform attributeName="transform" type="translate" values="0 0;10 -8;0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="180" r="35">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-8 8;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="50" r="30">
+      <animateTransform attributeName="transform" type="translate" values="0 0;8 -6;0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="500" y="110" text-anchor="middle" fill="#ffffff" font-family="Inter,system-ui,sans-serif" font-size="48" font-weight="700" filter="url(#glow)">Luciano Varalli</text>
+  <text x="500" y="150" text-anchor="middle" fill="#e0e7ff" font-family="Inter,system-ui,sans-serif" font-size="20" font-weight="500">Analista Programador Universitario · UNLP</text>
+</svg>

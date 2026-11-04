@@ -1,12 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=7c3aed,6366f1,0ea5e9&height=200&section=header&text=Luciano%20Varalli&fontSize=48)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=Analista+Programador+Universitario;UNLP" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoVaralli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-</p>
+![banner](./assets/banner.svg)
 
 <h2 align="center">🛠️ Tecnologías</h2>
 <p align="center">
@@ -50,4 +42,4 @@
 
 - **Energía Gimnasio** – Proyecto de gestión para un gimnasio. Aplicación web para administración de membresías, clases y planillas de salud.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0ea5e9,6366f1,7c3aed&height=100&section=footer)
+![footer](./assets/footer.svg)
