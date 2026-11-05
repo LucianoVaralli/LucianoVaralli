@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="220" height="60" rx="30" fill="url(#g)"/>
+  <image href="https://cdn.simpleicons.org/java/ffffff" x="18" y="15" width="30" height="30"/>
+  <text x="62" y="38" fill="white" font-family="Inter,system-ui,sans-serif" font-size="16" font-weight="600">Java</text>
+</svg>

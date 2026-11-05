@@ -2,8 +2,62 @@
 
 <h2 align="center">🛠️ Tecnologías</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,mongodb,git,github,gitlab&theme=dark" alt="Skills" />
+Me enfoco en el desarrollo backend con Python y FastAPI; complemento con Django Ninja y Flask. Hago frontend con Vue, despliego en Render y Vercel, y uso Supabase y MongoDB como bases de datos.
 </p>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+<b>Backend</b><br>
+<img src="./assets/tech/python.svg" alt="Python"/><br>
+<img src="./assets/tech/fastapi.svg" alt="FastAPI"/><br>
+<img src="./assets/tech/django-ninja.svg" alt="Django Ninja"/><br>
+<img src="./assets/tech/flask.svg" alt="Flask"/>
+
+</td>
+<td valign="top">
+
+<b>Frontend</b><br>
+<img src="./assets/tech/vue.svg" alt="Vue"/><br>
+<img src="./assets/tech/javascript.svg" alt="JavaScript"/>
+
+</td>
+<td valign="top">
+
+<b>Bases de datos</b><br>
+<img src="./assets/tech/supabase.svg" alt="Supabase"/><br>
+<img src="./assets/tech/mongodb.svg" alt="MongoDB"/><br>
+<img src="./assets/tech/sql.svg" alt="SQL"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<b>Deploy</b><br>
+<img src="./assets/tech/render.svg" alt="Render"/><br>
+<img src="./assets/tech/vercel.svg" alt="Vercel"/><br>
+<img src="./assets/tech/cloudflare.svg" alt="Cloudflare"/>
+
+</td>
+<td valign="top">
+
+<b>Herramientas</b><br>
+<img src="./assets/tech/git.svg" alt="Git"/><br>
+<img src="./assets/tech/github.svg" alt="GitHub"/><br>
+<img src="./assets/tech/gitlab.svg" alt="GitLab"/>
+
+</td>
+<td valign="top">
+
+<b>Facultad</b><br>
+<img src="./assets/tech/java.svg" alt="Java"/><br>
+<img src="./assets/tech/pascal.svg" alt="Pascal"/>
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">🎓 Facultad</h2>
 
