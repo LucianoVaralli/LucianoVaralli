@@ -25,6 +25,7 @@ Desarrollo backend con Python y FastAPI
 ### Frontend
 <p>
 <img src="https://img.shields.io/badge/Vue-161b22?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
+<img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 </p>
 
 ### Datos
