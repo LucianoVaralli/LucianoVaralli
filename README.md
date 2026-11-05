@@ -2,7 +2,7 @@
 
 <h2 align="center">🛠️ Tecnologías</h2>
 <p align="center">
-Me enfoco en el desarrollo backend con Python y FastAPI; complemento con Django Ninja y Flask. Hago frontend con Vue, despliego en Render y Vercel, y uso Supabase y MongoDB como bases de datos.
+Me enfoco en el desarrollo backend con Python y FastAPI; complemento con Django Ninja y Flask. Hago frontend con Vue, despliego en Render, Vercel y VPS, y uso Supabase y MongoDB como bases de datos.
 </p>
 
 <h3 align="center">Backend</h3>
@@ -31,6 +31,7 @@ Me enfoco en el desarrollo backend con Python y FastAPI; complemento con Django 
 <img src="./assets/tech/render.svg" alt="Render"/>
 <img src="./assets/tech/vercel.svg" alt="Vercel"/>
 <img src="./assets/tech/cloudflare.svg" alt="Cloudflare"/>
+<img src="./assets/tech/vps-hostinger.svg" alt="VPS Hostinger"/>
 </p>
 
 <h3 align="center">Herramientas</h3>
@@ -70,13 +71,18 @@ Me enfoco en el desarrollo backend con Python y FastAPI; complemento con Django 
 <a href="https://github.com/LucianoVaralli/ingenieria-2"><img src="./assets/materias/ingenieria-2.svg" alt="Ingeniería 2"/></a><br>
 <b>2do semestre</b><br>
 <a href="https://github.com/LucianoVaralli/Programacion-Concurrente"><img src="./assets/materias/programacion-concurrente.svg" alt="Programación Concurrente"/></a><br>
-TTPS - Taller de Desarrollo de Software guiado por los Requerimientos
+<a href="https://gitlab.com/luchito233/ttps-taller-de-desarrollo-de-software-guiado-por-los-requerimientos"><img src="./assets/materias/ttps.svg" alt="TTPS"/></a>
 </td>
 </tr>
 </table>
 
 <h2 align="center">💼 Trabajos propios</h2>
 
-- **Energía Gimnasio** – Proyecto de gestión para un gimnasio. Aplicación web para administración de membresías, clases y planillas de salud.
+<p align="center">
+<img src="./assets/trabajos/energia-gimnasio.svg" alt="Energía Gimnasio"/>
+</p>
+<p align="center">
+Proyecto de gestión para un gimnasio. Aplicación web para administración de membresías, clases y planillas de salud.
+</p>
 
 ![footer](./assets/footer.svg)
