@@ -52,25 +52,45 @@ Desarrollo backend con Python y FastAPI
 
 ## Facultad
 
+### 1er Año
+#### 2do semestre
 <table>
 <tr>
-<th>1er Año</th>
-<th>2do Año</th>
-<th>3er Año</th>
+<td>
+<a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP">
+<img src="assets/facultad/taller-programacion-unlp.svg" alt="Taller de Programación UNLP"/>
+</a>
+</td>
 </tr>
+</table>
+
+### 2do Año
+*Sin materias con repositorio público.*
+
+### 3er Año
+#### 1er semestre
+<table>
 <tr>
-<td valign="top">
-<b>2do semestre</b><br>
-<a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP">Taller de Programación UNLP</a>
+<td>
+<a href="https://github.com/LucianoVaralli/ingenieria-2">
+<img src="assets/facultad/ingenieria-2.svg" alt="Ingeniería 2"/>
+</a>
 </td>
-<td valign="top">
+</tr>
+</table>
+
+#### 2do semestre
+<table>
+<tr>
+<td>
+<a href="https://github.com/LucianoVaralli/Programacion-Concurrente">
+<img src="assets/facultad/programacion-concurrente.svg" alt="Programación Concurrente"/>
+</a>
 </td>
-<td valign="top">
-<b>1er semestre</b><br>
-<a href="https://github.com/LucianoVaralli/ingenieria-2">Ingeniería 2</a><br><br>
-<b>2do semestre</b><br>
-<a href="https://github.com/LucianoVaralli/Programacion-Concurrente">Programación Concurrente</a><br>
-<a href="https://gitlab.com/luchito233/ttps-taller-de-desarrollo-de-software-guiado-por-los-requerimientos">TTPS - Taller de Desarrollo de Software guiado por los Requerimientos</a>
+<td>
+<a href="https://gitlab.com/luchito233/ttps-taller-de-desarrollo-de-software-guiado-por-los-requerimientos">
+<img src="assets/facultad/ttps.svg" alt="TTPS"/>
+</a>
 </td>
 </tr>
 </table>
