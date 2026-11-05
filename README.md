@@ -1,88 +1,81 @@
-![banner](./assets/banner.svg)
+# Luciano Varalli
 
-<h2 align="center">🛠️ Tecnologías</h2>
 <p align="center">
-Me enfoco en el desarrollo backend con Python y FastAPI; complemento con Django Ninja y Flask. Hago frontend con Vue, despliego en Render, Vercel y VPS, y uso Supabase y MongoDB como bases de datos.
+<b>Analista Programador Universitario · UNLP</b><br>
+Desarrollo backend con Python y FastAPI
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-<img src="./assets/tech/python.svg" alt="Python"/>
-<img src="./assets/tech/fastapi.svg" alt="FastAPI"/>
-<img src="./assets/tech/django-ninja.svg" alt="Django Ninja"/>
-<img src="./assets/tech/flask.svg" alt="Flask"/>
+## Tecnologías
+
+### Lenguajes
+<p>
+<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Pascal-161b22?style=for-the-badge" alt="Pascal"/>
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-<img src="./assets/tech/vue.svg" alt="Vue"/>
-<img src="./assets/tech/javascript.svg" alt="JavaScript"/>
+### Backend
+<p>
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Django%20Ninja-161b22?style=for-the-badge" alt="Django Ninja"/>
+<img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
-<h3 align="center">Bases de datos</h3>
-<p align="center">
-<img src="./assets/tech/supabase.svg" alt="Supabase"/>
-<img src="./assets/tech/mongodb.svg" alt="MongoDB"/>
-<img src="./assets/tech/sql.svg" alt="SQL"/>
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/Vue-161b22?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
 </p>
 
-<h3 align="center">Deploy</h3>
-<p align="center">
-<img src="./assets/tech/render.svg" alt="Render"/>
-<img src="./assets/tech/vercel.svg" alt="Vercel"/>
-<img src="./assets/tech/cloudflare.svg" alt="Cloudflare"/>
-<img src="./assets/tech/vps-hostinger.svg" alt="VPS Hostinger"/>
+### Datos
+<p>
+<img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge" alt="SQL"/>
 </p>
 
-<h3 align="center">Herramientas</h3>
-<p align="center">
-<img src="./assets/tech/git.svg" alt="Git"/>
-<img src="./assets/tech/github.svg" alt="GitHub"/>
-<img src="./assets/tech/gitlab.svg" alt="GitLab"/>
+### Deploy
+<p>
+<img src="https://img.shields.io/badge/Render-161b22?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Cloudflare-161b22?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/VPS%20Hostinger-161b22?style=for-the-badge" alt="VPS Hostinger"/>
 </p>
 
-<h3 align="center">Facultad</h3>
-<p align="center">
-<img src="./assets/tech/java.svg" alt="Java"/>
-<img src="./assets/tech/pascal.svg" alt="Pascal"/>
+### Herramientas
+<p>
+<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-161b22?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </p>
 
-<h2 align="center">🎓 Facultad</h2>
+## Facultad
 
 <table>
 <tr>
-<td align="center" valign="top">
-<img src="./assets/anios/1er-ano.svg" alt="1er Año"/><br>
-<b>1er semestre</b><br>
-<br>
+<th>1er Año</th>
+<th>2do Año</th>
+<th>3er Año</th>
+</tr>
+<tr>
+<td valign="top">
 <b>2do semestre</b><br>
-<a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP"><img src="./assets/materias/taller-programacion-unlp.svg" alt="Taller de Programación UNLP"/></a>
+<a href="https://github.com/LucianoVaralli/Taller-de-Programacion-UNLP">Taller de Programación UNLP</a>
 </td>
-<td align="center" valign="top">
-<img src="./assets/anios/2do-ano.svg" alt="2do Año"/><br>
-<b>1er semestre</b><br>
-<br>
-<b>2do semestre</b><br>
-<br>
+<td valign="top">
 </td>
-<td align="center" valign="top">
-<img src="./assets/anios/3er-ano.svg" alt="3er Año"/><br>
+<td valign="top">
 <b>1er semestre</b><br>
-<a href="https://github.com/LucianoVaralli/ingenieria-2"><img src="./assets/materias/ingenieria-2.svg" alt="Ingeniería 2"/></a><br>
+<a href="https://github.com/LucianoVaralli/ingenieria-2">Ingeniería 2</a><br><br>
 <b>2do semestre</b><br>
-<a href="https://github.com/LucianoVaralli/Programacion-Concurrente"><img src="./assets/materias/programacion-concurrente.svg" alt="Programación Concurrente"/></a><br>
-<a href="https://gitlab.com/luchito233/ttps-taller-de-desarrollo-de-software-guiado-por-los-requerimientos"><img src="./assets/materias/ttps.svg" alt="TTPS"/></a>
+<a href="https://github.com/LucianoVaralli/Programacion-Concurrente">Programación Concurrente</a><br>
+<a href="https://gitlab.com/luchito233/ttps-taller-de-desarrollo-de-software-guiado-por-los-requerimientos">TTPS - Taller de Desarrollo de Software guiado por los Requerimientos</a>
 </td>
 </tr>
 </table>
 
-<h2 align="center">💼 Trabajos propios</h2>
+## Proyectos
 
-<p align="center">
-<img src="./assets/trabajos/energia-gimnasio.svg" alt="Energía Gimnasio"/>
-</p>
-<p align="center">
-Proyecto de gestión para un gimnasio. Aplicación web para administración de membresías, clases y planillas de salud.
-</p>
-
-![footer](./assets/footer.svg)
+**Energía Gimnasio**  
+Aplicación web para gestión de gimnasio: membresías, clases y planillas de salud.  
+Tecnologías: Python, FastAPI, Vue, Supabase, MongoDB.
